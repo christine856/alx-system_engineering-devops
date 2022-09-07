@@ -1,2 +1,2 @@
 #!/bin/bash
-ho $(($TRUEKNOWLEDGE+128))
+o $(($TRUEKNOWLEDGE+128))
